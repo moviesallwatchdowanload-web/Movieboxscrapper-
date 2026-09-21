@@ -2,6 +2,6 @@
     "name": "MyMovieBox Repo",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/moviesallwatchdowanload-web/MovieBox-scrapper/main/plugins.json"
+      "https://raw.githubusercontent.com/moviesallwatchdowanload-web/Movieboxscrapper-/main/plugins.json"
     ]
 }
